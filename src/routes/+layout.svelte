@@ -11,7 +11,7 @@
 	</main>
 
 	<footer>
-		<p>visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to learn SvelteKit</p>
+		<p>Desenvolvido por <a href="https://www.linkedin.com/in/diego-fran%C3%A7a-aa66ba78">Diego França</a></p>
 	</footer>
 </div>
 
@@ -25,7 +25,6 @@
 	main {
 		flex: 1;
 		display: flex;
-		flex-direction: column;
 		padding: 1rem;
 		width: 100%;
 		max-width: 64rem;
